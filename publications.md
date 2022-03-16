@@ -3,4 +3,5 @@ layout: page
 title: "Publications"
 ---
 
-text text text text text text
+* Publication 1
+* Publication 2
