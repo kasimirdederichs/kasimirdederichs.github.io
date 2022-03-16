@@ -16,7 +16,6 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Home", file: "index.html",  icon: home}
   - {title: "Publications", file: "publications.md"}
   - {title: "College Profile", url: "https://www.nuffield.ox.ac.uk/people/profiles/kasimir-dederichs/"}
   - {title: "Teaching", file: "teaching.md"}
