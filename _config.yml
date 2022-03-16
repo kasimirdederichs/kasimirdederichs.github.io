@@ -16,8 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home new"}
-  - {file: "README.md", title: "About me"}
+  - {file: "index.html", title: "Home new", icon: home}
+  - {file: "README.md", title: "About me", icon: address-card}
+  - {title: "College Profile", url: "https://www.nuffield.ox.ac.uk/people/profiles/kasimir-dederichs/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:kasimir.dederichs@nuffield.ox.ac.uk"}
