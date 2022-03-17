@@ -1,6 +1,9 @@
 ---
 layout: page
 title: "Publications"
+listing:
+  posts:
+  - 2022-03-16-Who-stays-involved
 ---
 
 * Publication 1
