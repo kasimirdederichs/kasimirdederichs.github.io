@@ -7,5 +7,5 @@ title: "Publications"
 * Publication 2
 
 
-{% include archive.hrml title="Posts" %}
+{% include archive.html title="Posts" %}
 
