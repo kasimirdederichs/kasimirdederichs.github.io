@@ -11,9 +11,6 @@ listing:
 The extent to which people are active in voluntary associations varies with age. While previous research provides clear evidence for an inverse u-shaped pattern across an adult’s life, much less is known about the formative period of adolescence and young adulthood. In this article, we examine changes in voluntary participation starting at age 14 and assess the impact of adolescents’ educational transitions and their socioeconomic status. Our analyses rely on longitudinal survey data following a representative sample of adolescents in Germany (N = 5,013) over 6 years. Using fixed effects regression and moderated mediation analyses, we examine how adolescents’ educational transitions and their socioeconomic status drive changes in participation. Results indicate a substantive decline in participation as individuals grow older. Transitions into higher tertiary education partly account for this decline. Finally, we find that adolescents from higher socioeconomic status are especially likely to reduce their participation, in part because they are more likely to undergo transitions into higher tertiary education. These findings suggest that the socioeconomic gap in participation decreases as adolescents grow older. ([code](https://github.com/kasimirdederichs/Who_stays_involved)) 
 
 ![](assets/Who_stays_involved_Figure2.jpg)
-<img src='assets/Who_stays_involved_Figure2.jpg' width='1000'>
-[[assets/Who_stays_involved_Figure2.jpg|width=100px]]
-![img|320x271,70%](assets/Who_stays_involved_Figure2.jpg)
 
 <br/><br/>
 
@@ -21,5 +18,4 @@ The extent to which people are active in voluntary associations varies with age.
 
 I examine how volunteering dynamics changed in the United Kingdom during the coronavirus disease 2019 (COVID-19) pandemic relying on data from the “Understanding Society” survey. Descriptive analyses and linear probability models yield three main findings: First, the share of volunteers (for all causes) dropped at least by a third during the first lockdown and did not increase until March 2021. Second, disproportional (absolute) declines occurred among the elderly, women, and those with higher education. Elderly individuals were particularly likely to quit their voluntary engagement, while the propensity of starting declined particularly among higher educated individuals. Third, volunteering in response to COVID-19 was performed by only 3.4% of all respondents and was more common among the higher educated, women, and experienced volunteers. These results suggest that volunteering might well decrease during disasters that affect the opportunities of potential volunteers contrasting the mobilizing role of disasters highlighted by earlier research.
 
-<img src="assets/Volunteering_Covid_UK_Figure1.jpg" width="1000">
-
+![](assets/Volunteering_Covid_UK_Figure1.jpg)
