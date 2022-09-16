@@ -12,6 +12,8 @@ The extent to which people are active in voluntary associations varies with age.
 
 <img src="assets/Who_stays_involved_Figure2.jpg" width="1000">
 
+
+
 # Dederichs, K. (2022) Volunteering in the United Kingdom During the COVID-19 Pandemic: Who Started and Who Quit?, Nonprofit and Voluntary Sector Quarterly ([online first](https://journals.sagepub.com/doi/full/10.1177/08997640221122814#table-fn2-08997640221122814))
 
 I examine how volunteering dynamics changed in the United Kingdom during the coronavirus disease 2019 (COVID-19) pandemic relying on data from the “Understanding Society” survey. Descriptive analyses and linear probability models yield three main findings: First, the share of volunteers (for all causes) dropped at least by a third during the first lockdown and did not increase until March 2021. Second, disproportional (absolute) declines occurred among the elderly, women, and those with higher education. Elderly individuals were particularly likely to quit their voluntary engagement, while the propensity of starting declined particularly among higher educated individuals. Third, volunteering in response to COVID-19 was performed by only 3.4% of all respondents and was more common among the higher educated, women, and experienced volunteers. These results suggest that volunteering might well decrease during disasters that affect the opportunities of potential volunteers contrasting the mobilizing role of disasters highlighted by earlier research.
