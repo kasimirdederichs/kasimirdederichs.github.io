@@ -12,6 +12,7 @@ The extent to which people are active in voluntary associations varies with age.
 
 ![](assets/Who_stays_involved_Figure2.jpg =100x1000)
 <img src="assets/Who_stays_involved_Figure2.jpg" width="1000">
+[[assets/Who_stays_involved_Figure2.jpg|width=100px]]
 
 <br/><br/>
 
