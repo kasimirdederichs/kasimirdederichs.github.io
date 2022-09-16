@@ -12,7 +12,7 @@ The extent to which people are active in voluntary associations varies with age.
 
 <img src="assets/Who_stays_involved_Figure2.jpg" width="1000">
 
-
+<br/><br/>
 
 # Dederichs, K. (2022) Volunteering in the United Kingdom During the COVID-19 Pandemic: Who Started and Who Quit?, Nonprofit and Voluntary Sector Quarterly ([online first](https://journals.sagepub.com/doi/full/10.1177/08997640221122814#table-fn2-08997640221122814))
 
