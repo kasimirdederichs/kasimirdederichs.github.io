@@ -6,7 +6,7 @@ listing:
   - 2022-03-16-Who-stays-involved
 ---
 
-# Dederichs, K ([2024](https://doi.org/10.1016/j.socnet.2023.07.004)) Join to connect? Voluntary involvement, social capital, and socioeconomic inequalities
+# Dederichs, K. ([2024](https://doi.org/10.1016/j.socnet.2023.07.004)) Join to connect? Voluntary involvement, social capital, and socioeconomic inequalities
 
 Access to social capital is stratified by socioeconomic status and has been cross-sectionally linked to involvement in voluntary organizations. Yet, we know little about the origin and interplay of these empirical regularities. Regression analyses on German panel data (SC6-NEPS) reveal that people rich in social capital join organizations more often (selection). Furthermore, joiners access more and higher-status social capital after joining (socializing opportunities). Low-status individuals disproportionally extend their reach towards higher positions through involvement but join less often. Compared to a counterfactual situation in which nobody joins, current involvement patterns marginally reduce some socioeconomic inequalities in access to social capital. ([code](https://github.com/kasimirdederichs/Volunteering_SocialCapital_SES))
 
@@ -14,7 +14,7 @@ Access to social capital is stratified by socioeconomic status and has been cros
 
 <br/><br/>
 
-# Dederichs, K & de Graaf, N.D.([2023](https://doi.org/10.1177/08912432231195075)) Gender Segregation in Civic Life: Women’s and Men’s Involvement in Voluntary Associations
+# Dederichs, K. & de Graaf, N.D. ([2023](https://doi.org/10.1177/08912432231195075)) Gender Segregation in Civic Life: Women’s and Men’s Involvement in Voluntary Associations
 
 The pervasive persistence of gender segregation has been documented in a myriad of social settings, implying that women and men primarily encounter peers of their own gender in daily life. While voluntary associations are often praised for their ability to bridge other social divides, previous research indicates substantive gender disparities in voluntary involvement. Yet we still know relatively little about the extent and origins of gender segregation in civic life. In this article, we study gender homophily in voluntary involvement and examine how structural features of friendship networks and traditional gender norms bring about gender segregation. Employing data from a German panel study (SC6-NEPS), we analyze cross-sectional patterns of gender segregation and run multinomial and binary logistic regressions to model joining and quitting transitions. Our results indicate substantive gender segregation across and within types of voluntary associations. The overall gender segregation is driven by homophilous transitions into associational contexts, not by selective quitting decisions. Gender-segregated friendship networks partially explain the tendency to join organizations dominated by one’s own gender. Traditional gender norms are associated with more homophilous joining transitions among men, but not among women. Overall, these findings imply that civic life perpetuates the structural significance of gender. ([code](https://github.com/kasimirdederichs/GenderSegregation_CivicLife))
 
