@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-I'm a Ph.D. candidate at Nuffield College, University of Oxford.
+I'm a Postdoctoral Prize Research Fellow in Sociology at Nuffield College, University of Oxford.
 
 {% if site.show_excerpts %}
   {% include home.html %}
