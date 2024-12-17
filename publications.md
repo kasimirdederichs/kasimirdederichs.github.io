@@ -6,6 +6,22 @@ listing:
   - 2022-03-16-Who-stays-involved
 ---
 
+# Dederichs, K. & D. Wiertz ([2025](https://doi.org/10.1093/esr/jcae047)) Brittle bridges: ethnic segregation across and within civic organizations
+
+Civic organizations are often depicted as vehicles for social integration: Since they gather people around common interests and have relatively low entry barriers, they may facilitate interactions that bridge social divides prevailing in other domains. However, this hopeful portrayal rests on several critical yet largely untested assumptions. This study more closely investigates the bridging potential of civic organizations, focusing on ethnicity as a key social boundary. Using unique Dutch survey data, we show that: (i) There is strong ethnic segregation across civic organizations, which persists after accounting for educational differences between individuals and organizations; (ii) There is ethnic segregation within civic organizations in participants’ contacts with co-members; (iii) Participants integrate less well in organizations with more ethnic outgroup members and are more likely to leave such organizations. In sum, homophilous sorting dynamics when people join, interact within, and leave civic organizations limit their capacity to facilitate positive inter-ethnic contact. Additional efforts are thus necessary for civic organizations to fully live up to their bridging potential and mitigate rather than reinforce existing ethnic divides. ([code](https://github.com/kasimirdederichs/Ethnic_Segregation_Civic_Organizations))
+
+![](assets/brittle_bridges_fig1.jpg)
+
+<br/><br/>
+
+# Dederichs, K. & P. Verhaeghe ([2024](https://doi.org/10.1093/esr/jcae047)) Implicit Racial Bias in Europe: Cross-National Variation and Time Trends
+
+The authors visualize how implicit racial bias at the collective level varies across European countries and how it changed between 2009 and 2019. To obtain population-level estimates, the authors re-weight implicit association test data from the Project Implicit international dataset (n = 184,745). Implicit bias against Black people is stronger in southern and eastern vis-à-vis northern and western European countries. It decreased until the mid-2010s but started to increase thereafter. ([code](https://github.com/kasimirdederichs/Implicit_Racial_Bias_In_Europe))
+
+![](assets/implicit_bias_fig1.png)
+
+<br/><br/>
+
 # Dederichs, K. ([2024](https://doi.org/10.1016/j.socnet.2023.07.004)) Join to connect? Voluntary involvement, social capital, and socioeconomic inequalities
 
 Access to social capital is stratified by socioeconomic status and has been cross-sectionally linked to involvement in voluntary organizations. Yet, we know little about the origin and interplay of these empirical regularities. Regression analyses on German panel data (SC6-NEPS) reveal that people rich in social capital join organizations more often (selection). Furthermore, joiners access more and higher-status social capital after joining (socializing opportunities). Low-status individuals disproportionally extend their reach towards higher positions through involvement but join less often. Compared to a counterfactual situation in which nobody joins, current involvement patterns marginally reduce some socioeconomic inequalities in access to social capital. ([code](https://github.com/kasimirdederichs/Volunteering_SocialCapital_SES))
