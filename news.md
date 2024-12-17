@@ -6,6 +6,18 @@ listing:
   - 2022-03-16-Who-stays-involved
 ---
 
+# November 2024: New article published
+
+My paper with Dingeman Wiertz 'Brittle bridges: ethnic segregation across and within civic organizations' appeared in the Journal 'European Sociological Review' (see 'Publications' for more information). See ([here](https://x.com/Kasimir_D/status/1864314145937428721)) for a short thread. 
+
+<br/><br/>
+
+# November 2024: Funding for Tandem Collaboration
+
+I am happy to announce that my Tandem Collaboration with Ansgar Hudde has received Funding from the University of Cologne. See ([here](https://cif.uni-koeln.de/projects#c103541)) in the near future for more information. 
+
+<br/><br/>
+
 # August 2023: New article published
 
 My paper with Nan Dirk de Graaf 'Gender Segregation in Civic Life: Women’s and Men’s Involvement in Voluntary Associations' appeared in the Journal 'Gender & Society' (see 'Publications' for more information). See ([here](https://twitter.com/Kasimir_D/status/1701564405979263452)) for a short thread. 
