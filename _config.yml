@@ -20,11 +20,13 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "News", file: "news.md"}
   - {title: "Publications", file: "publications.md"}
   - {title: "Teaching", file: "teaching.md"}
+  - {title: "CV", file: "cv.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:kasimir.dederichs@nuffield.ox.ac.uk"}
   - {title: Github, icon: github, url: "https://github.com/kasimirdederichs"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/Kasimir_D"}
+  - {title: Bluesky, icon: twitter, url: "https://bsky.app/profile/kasimirdederichs.bsky.social"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
