@@ -6,6 +6,20 @@ listing:
   - 2022-03-16-Who-stays-involved
 ---
 
+
+Dederichs, K. & D. Wiertz (2025): Brittle bridges: ethnic segregation across and within civic organizations, European Sociological Review.
+Dederichs, K. & P. Verhaeghe (2024) Implicit Racial Bias in Europe: Cross-National Variation and Time Trends, Socius.
+Dederichs, K. (2024) Join to connect? Voluntary involvement, social capital, and socioeconomic inequalities, Social Networks.
+Dederichs, K. & de Graaf, N.D. (2023) Gender Segregation in Civic Life: Women’s and Men’s Involvement in Voluntary Associations, Gender & Society.
+Dederichs, K. & Kruse, H. (2023) Who Stays Involved? A Longitudinal Study on Adolescents’ Participation in Voluntary Associations in Germany, European Sociological Review.
+Dederichs, K. (2022) Volunteering in the United Kingdom During the COVID-19 Pandemic: Who Started and Who Quit?, Nonprofit and Voluntary Sector Quarterly.
+
+<br/><br/>
+
+Below, you can find more information about each of these articles.  
+
+<br/><br/>
+
 # Dederichs, K. & D. Wiertz ([2025](https://doi.org/10.1093/esr/jcae047)) Brittle bridges: ethnic segregation across and within civic organizations - European Sociological Review 
 
 Civic organizations are often depicted as vehicles for social integration: Since they gather people around common interests and have relatively low entry barriers, they may facilitate interactions that bridge social divides prevailing in other domains. However, this hopeful portrayal rests on several critical yet largely untested assumptions. This study more closely investigates the bridging potential of civic organizations, focusing on ethnicity as a key social boundary. Using unique Dutch survey data, we show that: (i) There is strong ethnic segregation across civic organizations, which persists after accounting for educational differences between individuals and organizations; (ii) There is ethnic segregation within civic organizations in participants’ contacts with co-members; (iii) Participants integrate less well in organizations with more ethnic outgroup members and are more likely to leave such organizations. In sum, homophilous sorting dynamics when people join, interact within, and leave civic organizations limit their capacity to facilitate positive inter-ethnic contact. Additional efforts are thus necessary for civic organizations to fully live up to their bridging potential and mitigate rather than reinforce existing ethnic divides. ([code](https://github.com/kasimirdederichs/Ethnic_Segregation_Civic_Organizations))
