@@ -7,12 +7,12 @@ listing:
 ---
 
 
-Dederichs, K. & D. Wiertz (2025): Brittle bridges: ethnic segregation across and within civic organizations, European Sociological Review.
-Dederichs, K. & P. Verhaeghe (2024) Implicit Racial Bias in Europe: Cross-National Variation and Time Trends, Socius.
-Dederichs, K. (2024) Join to connect? Voluntary involvement, social capital, and socioeconomic inequalities, Social Networks.
-Dederichs, K. & de Graaf, N.D. (2023) Gender Segregation in Civic Life: Women’s and Men’s Involvement in Voluntary Associations, Gender & Society.
-Dederichs, K. & Kruse, H. (2023) Who Stays Involved? A Longitudinal Study on Adolescents’ Participation in Voluntary Associations in Germany, European Sociological Review.
-Dederichs, K. (2022) Volunteering in the United Kingdom During the COVID-19 Pandemic: Who Started and Who Quit?, Nonprofit and Voluntary Sector Quarterly.
+Dederichs, K. & D. Wiertz (2025): Brittle bridges: ethnic segregation across and within civic organizations, European Sociological Review. <br/>
+Dederichs, K. & P. Verhaeghe (2024) Implicit Racial Bias in Europe: Cross-National Variation and Time Trends, Socius. <br/>
+Dederichs, K. (2024) Join to connect? Voluntary involvement, social capital, and socioeconomic inequalities, Social Networks. <br/>
+Dederichs, K. & de Graaf, N.D. (2023) Gender Segregation in Civic Life: Women’s and Men’s Involvement in Voluntary Associations, Gender & Society. <br/>
+Dederichs, K. & Kruse, H. (2023) Who Stays Involved? A Longitudinal Study on Adolescents’ Participation in Voluntary Associations in Germany, European Sociological Review. <br/>
+Dederichs, K. (2022) Volunteering in the United Kingdom During the COVID-19 Pandemic: Who Started and Who Quit?, Nonprofit and Voluntary Sector Quarterly. <br/>
 
 <br/><br/>
 
