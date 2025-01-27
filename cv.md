@@ -4,7 +4,4 @@ title: ""
 ---
 
 
-Please find below the latest version of my CV.
-
-
-[CV](assets/Dederichs_CV.pdf)
+Please find the latest version of my CV [here](assets/Dederichs_CV.pdf).
