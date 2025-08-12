@@ -6,11 +6,11 @@ listing:
   - 2022-03-16-Who-stays-involved
 ---
 
-
+Dederichs, K., E. Akimova, N.D. de Graaf (2025): Who Remains Single? Educational Gradients in Long-Term Singlehood Across Ethnic Groups, Journal of Marriage and Family <br/>
 Dederichs, K. & D. Wiertz (2025): Brittle bridges: ethnic segregation across and within civic organizations, European Sociological Review. <br/>
 Dederichs, K. & P. Verhaeghe (2024) Implicit Racial Bias in Europe: Cross-National Variation and Time Trends, Socius. <br/>
 Dederichs, K. (2024) Join to connect? Voluntary involvement, social capital, and socioeconomic inequalities, Social Networks. <br/>
-Dederichs, K. & de Graaf, N.D. (2023) Gender Segregation in Civic Life: Women’s and Men’s Involvement in Voluntary Associations, Gender & Society. <br/>
+Dederichs, K. & N.D. de Graaf (2023) Gender Segregation in Civic Life: Women’s and Men’s Involvement in Voluntary Associations, Gender & Society. <br/>
 Dederichs, K. & Kruse, H. (2023) Who Stays Involved? A Longitudinal Study on Adolescents’ Participation in Voluntary Associations in Germany, European Sociological Review. <br/>
 Dederichs, K. (2022) Volunteering in the United Kingdom During the COVID-19 Pandemic: Who Started and Who Quit?, Nonprofit and Voluntary Sector Quarterly. <br/>
 
@@ -19,6 +19,14 @@ Dederichs, K. (2022) Volunteering in the United Kingdom During the COVID-19 Pand
 Below, you can find more information about each of these articles.  
 
 <br/><br/>
+# Dederichs, K., E. Akimova, N.D. de Graaf ([2025](https://doi.org/10.1111/jomf.70017)) Who Remains Single? Educational Gradients in Long-Term Singlehood Across Ethnic Groups - Journal of Marriage and Family 
+
+Objective: To compare the prevalence of long-term singlehood and its educational gradient . Background: Educational gradients in singlehood vary with countries' prevalent gender roles, and European societies increasingly include ethnic minorities originating from countries with more traditional gender roles. This study investigates whether the prevalence of singlehood and its educational gradient differ between ethnic majority and minority groups and whether opportunity structures are shaping any such differences. Method: Using full-population register data from the Netherlands, this study examines educational gradients in the risk of entering one's first co-residential union (i.e., cohabitation or marriage) between ages 18 and 45, while also exploring differences and temporal shifts in opportunity structures. A rich description including non-parametric Kaplan–Meier curves is provided for women and men of Dutch, Turkish, and Moroccan origin who were born in the Netherlands or abroad between 1977 and 1983. Results: Long-term singlehood is more common among ethnic minorities. University education is associated with lower singlehood rates among men of all groups and Dutch-origin women, but with higher singlehood rates among women of Turkish and Moroccan origin. This reversed educational gradient can partially be attributed to the limited availability of coethnic universityeducated male partners. Conclusion: The interplay of individual preferences, endogamy norms, and the structural availability of educational and ethnic ingroup partners affects who remains single in ethnically diverse societies.
+
+![](assets/Singlehood_fig1.png)
+
+<br/><br/>
+
 
 # Dederichs, K. & D. Wiertz ([2025](https://doi.org/10.1093/esr/jcae047)) Brittle bridges: ethnic segregation across and within civic organizations - European Sociological Review 
 
