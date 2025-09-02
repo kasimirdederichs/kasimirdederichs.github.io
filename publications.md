@@ -21,7 +21,7 @@ Below, you can find more information about each of these articles.
 
 
 <br/><br/>
-# Dederichs, K., R.Franken, D. Wiertz, J. Tolsma ([2025](https://doi.org/10.1093/pnasnexus/pgaf256)) Ingroup preferences, segregation, and intergroup contact in neighborhoods and civic organizations - PNAS Nexus 
+# Dederichs, K., R. Franken, D. Wiertz, J. Tolsma ([2025](https://doi.org/10.1093/pnasnexus/pgaf256)) Ingroup preferences, segregation, and intergroup contact in neighborhoods and civic organizations - PNAS Nexus 
 
 Segregation perpetuates social inequalities and undermines social cohesion. It can already emerge if individuals act upon weak preferences to associate with similar others. Yet, little remains known about how such ingroup preferences compare across social settings and different identity dimensions. To address this gap and to isolate ingroup preferences from other drivers of segregation, three large-scale, preregistered conjoint experiments on choices of neighborhoods and civic organizations were conducted (N1 = 2,733, N2 = 2,743, N3 = 2,707). The results reveal powerful ingroup preferences in both settings and across all studied dimensions (age, ethnicity, education). These preferences are strongest among individuals with little real-life exposure to outgroups and do not depend on the expected intensity of contact. As an exception, lower-educated individuals display no ingroup preferences along educational lines. Altogether, the results highlight that ingroup preferences are pervasive, can pose a critical obstacle to intergroup contact, and should thus be carefully considered in desegregation efforts.
 
