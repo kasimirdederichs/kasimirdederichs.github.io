@@ -5,7 +5,7 @@ listing:
   posts:
   - 2022-03-16-Who-stays-involved
 ---
-
+Dederichs, K. & F. van Tubergen (2025): Who Partners With Whom? A Multigroup Perspective on Union Formation and Religious Boundaries in the Netherlands, Demography <br/>
 Dederichs, K., R. Franken, D. Wiertz, J. Tolsma (2025): Ingroup preferences, segregation, and intergroup contact in neighborhoods and civic organizations, PNAS Nexus <br/>
 Dederichs, K., E. Akimova, N.D. de Graaf (2025): Who Remains Single? Educational Gradients in Long-Term Singlehood Across Ethnic Groups, Journal of Marriage and Family <br/>
 Dederichs, K. & D. Wiertz (2025): Brittle bridges: ethnic segregation across and within civic organizations, European Sociological Review. <br/>
@@ -19,6 +19,12 @@ Dederichs, K. (2022) Volunteering in the United Kingdom During the COVID-19 Pand
 
 Below, you can find more information about each of these articles.  
 
+<br/><br/>
+# Dederichs, K. & F. van Tubergen ([2025](https://doi.org/10.1215/00703370-12349287)) Who Partners With Whom in Diverse Societies? A Multigroup Perspective on Union Formation and Religious Boundaries in the Netherlands - Demography 
+
+The presence of exogamous consensual unions (marriages and cohabitations) is an important indicator of social closeness between groups. European research on intermarriage has focused on unions between minority groups and the native majority population, highlighting that religion, especially Islam, constitutes a bright boundary. In diversifying societies, however, opportunities for union formation between minority groups with distinct national origins are increasing. Yet, we know little about partnership patterns among these groups, particularly whether different Muslim groups coalesce through intergroup unions. Using full-population register data from the Netherlands (1999‒2023), we analyze union formation across any combination of the 21 largest national origin groups present on the partnership market. Our findings reveal that unions involving partners from Muslim groups originating from different countries remain strikingly rare overall compared with endogamy within national origin groups, indicating the persistence of national legacies rather than exclusively religious closure. Boundaries for union formation between Muslim groups do not weaken meaningfully across immigrant generations and time. Among non-Muslim groups, by contrast, unions are more commonly formed within broader panethnic “melting pots.” Overall, these results underscore the need for a more nuanced understanding of religious boundaries and panethnicity in union formation in Europe. ([code](https://github.com/kasimirdederichs/who_partners_with_whom))
+
+![](assets/Who_partners_with_whom_Fig4.png)
 
 <br/><br/>
 # Dederichs, K., R. Franken, D. Wiertz, J. Tolsma ([2025](https://doi.org/10.1093/pnasnexus/pgaf256)) Ingroup preferences, segregation, and intergroup contact in neighborhoods and civic organizations - PNAS Nexus 
