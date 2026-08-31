@@ -6,25 +6,25 @@ listing:
   - 2022-03-16-Who-stays-involved
 ---
 
-# December 2025: New pre-print published: 
+# December 2025: New pre-print published
 
 Tobias Rüttenauer, David Kretschmer, and I published a pre-print entitled ‘Immigrant Residential Segregation in Europe: A Comparative Study of Spatial Segregation Patterns in Urban Areas across 30 Countries’ on [arXiv](http://arxiv.org/abs/2512.17037))
 
 <br/><br/>
 
-# December 2025: New article published: 
+# December 2025: New article published
 
 My paper with Frank van Tubergen ‘Who Partners With Whom? A Multigroup Perspective on Union Formation and Religious Boundaries in the Netherlands’ appeared in the Journal ‘Demography’ (see ‘Publications’ for more information).
 
 <br/><br/>
 
-# October 2025: Student Visit at Nuffield College:
+# October 2025: Student Visit at Nuffield College
 
 Thanks to funding from Cologne International Forum, I had the privilege of hosting three talented Master students from the University of Cologne at Nuffield College for one week. Besides the student conference, during which all students presented their current work, we attended numerous seminars and other academic events.
 
 <br/><br/>
 
-# November 2025: New article published: 
+# November 2025: New article published 
 
 My paper with Evelina Akimova and Nan Dirk de Graaf ‘Who Remains Single? Educational Gradients in Long-Term Singlehood Across Ethnic Groups’ appeared in the Journal of Marriage and Family (see ‘Publications’ for more information). 
 
