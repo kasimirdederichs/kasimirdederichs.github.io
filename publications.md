@@ -15,9 +15,11 @@ Dederichs, K. & N.D. de Graaf (2023) Gender Segregation in Civic Life: Women’s
 Dederichs, K. & Kruse, H. (2023) Who Stays Involved? A Longitudinal Study on Adolescents’ Participation in Voluntary Associations in Germany, European Sociological Review. <br/>
 Dederichs, K. (2022) Volunteering in the United Kingdom During the COVID-19 Pandemic: Who Started and Who Quit?, Nonprofit and Voluntary Sector Quarterly. <br/>
 
+Dissertation: Who (else) is involved? - How voluntary associations connect and separate us, University of Oxford, available ([here](https://ora.ox.ac.uk/objects/uuid:8bd5ab58-4f37-4f14-abe3-915a9619c2b6))
+
 <br/><br/>
 
-Below, you can find more information about each of these articles.  
+Below, you can find more information about each article.  
 
 <br/><br/>
 # Dederichs, K. & F. van Tubergen ([2025](https://doi.org/10.1215/00703370-12349287)) Who Partners With Whom in Diverse Societies? A Multigroup Perspective on Union Formation and Religious Boundaries in the Netherlands - Demography 
